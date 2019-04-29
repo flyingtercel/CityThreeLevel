@@ -1,9 +1,9 @@
 # 省市区三级联动
 ### 使用RecyclerView实现省市区三级联动
-![image](https://github.com/flyingtercel/CityThreeLevel/tree/master/img/img2.gif)
+![image](https://github.com/flyingtercel/CityThreeLevel/blob/master/img/img2.gif)
 
 ### 1获取省市区三级联动json数据，存放在assets文件夹下
-![文件路径](https://github.com/flyingtercel/CityThreeLevel/tree/master/img/img1.jpg)
+![文件路径](https://github.com/flyingtercel/CityThreeLevel/blob/master/img/img1.jpg)
 ### 2获取文件并解析
 ```
    AssetManager assets = getAssets();
